@@ -2,9 +2,9 @@
 header("Access-Control-Allow-Origin: *");
 
 $host = 'localhost'; // Host de la base de datos (puede ser diferente)
-$usuario = 'id21226846_diadia'; // Usuario de la base de datos
-$contrasena = 'Diana2023$'; // Contraseña de la base de datos
-$base_de_datos = 'id21226846_persona'; // Nombre de la base de datos
+$usuario = 'root'; // Usuario de la base de datos
+$contrasena = ''; // Contraseña de la base de datos
+$base_de_datos = 'personal'; // Nombre de la base de datos
 $tabla = 'dianah'; // Nombre de la tabla
 
 // Conexión a la base de datos
